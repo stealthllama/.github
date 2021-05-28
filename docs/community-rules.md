@@ -34,7 +34,7 @@ The repository description field is too short or doesn't exist.
 
 Fill in the description field for a repo with a meaningful description for
 customers to understand the purpose of your repo. The description will show up
-on https://gallery.pan.dev/gallery where customers can discover your repository.
+on https://gallery.pan.dev/all where customers can discover your repository.
 
 You can find the description near the top of your repository page.
 
