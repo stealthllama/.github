@@ -1,7 +1,8 @@
 threshold: 100
 checks:
   repoName:
-    value: 10
+    value: 15
+    length: 9
     infoLink: https://github.com/PaloAltoNetworks/.github/blob/master/docs/community-rules.md#repository-name
   description:
     value: 15
