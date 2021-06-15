@@ -195,7 +195,7 @@ https://gallery.pan.dev.
 This is **optional**
 
 All repositories use the default contribution guidelines at
-https://github.com/PaloAltoNetworks/.github/CONTRIBUTING.md. If you need to
+https://github.com/PaloAltoNetworks/.github/blob/master/CONTRIBUTING.md. If you need to
 customize your contribution guidelines, please create your own `CONTRIBUTING.md`
 file in the root of your repository. The file must be at least 200 characters.
 
